@@ -1,0 +1,3 @@
+[build]
+  publish = "cartcheck"
+  functions = "cartcheck/netlify/functions"
